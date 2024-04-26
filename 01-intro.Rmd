@@ -48,3 +48,5 @@ Sob uma perspectiva patológica, é relevante destacar que, enquanto os neurôni
 Para a devida compreensão acerca das populações celulares que compõem as células de glia e suas respectivas características funcionais, é necessário termos em mente alguns pontos-chave, dos quais trataremos logo a seguir.
 
 #### Astrócitos {.unnumbered}
+
+Do grego, o nome dessas céulas se traduz literalmente como "células-estrela", o que reflete suas geometrias altamente ramificadas e fractalizadas.
