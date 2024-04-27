@@ -136,4 +136,4 @@ Sob a óptica da Neuropatologia, tem-se que as principais doenças que afetam o 
 
 - imagens de estrutura proteica terciária computacional mostrando as proteínas zero de mielina ancorando-se entre dois folhetos de membrana plasmática adjacentes 
 
-## Caso Clínico
+## Caso Clínico: Raiva {Encefalite fatal causada pelos Lyssavirus}
