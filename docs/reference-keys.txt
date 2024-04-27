@@ -1,3 +1,4 @@
+fig:unnamed-chunk-4
 fig:nice-fig
 tab:nice-tab
 eq:binom
@@ -7,6 +8,7 @@ render-book
 preview-book
 encéfalo
 tecido-nervoso
+caso-clínico
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
