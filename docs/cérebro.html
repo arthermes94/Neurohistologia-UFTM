@@ -60,6 +60,70 @@ set in the _output.yml file.</p>" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
 
 <style type="text/css">
   
@@ -104,7 +168,7 @@ div.csl-indent {
 <li><a href="./">A Minimal Book Example</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> url: your book url like https://bookdown.org/yihui/bookdown</a>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> About</a>
 <ul>
 <li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#usage"><i class="fa fa-check"></i><b>1.1</b> Usage</a></li>
 <li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#render-book"><i class="fa fa-check"></i><b>1.2</b> Render book</a></li>
@@ -170,35 +234,39 @@ div.csl-indent {
 <ul>
 <li>mapa das áreas de Brodmann junto com legenda explicando as funções das principais delas</li>
 </ul>
-<p>De uma perspectiva neuroembriológica, tem-se que o cérebro se desenvolve a partir da extremidade cefálica do tubo neural, formada a partir do fechamento do neuróporo rostral durante a quarta semana de desenvolvimento. Esse evento permite a formação de três vesículas encefálicas primárias, as quais correspondem, de rostral a caudalmente, ao <strong>prosencéfalo</strong>, ao mesencéfalo e ao rombencéfalo. Na quinta semana de desenvolvimento, o prosencéfalo se divide em duas vesículas encefálicas secundárias, correspondentes ao <strong>telencéfalo</strong>, o qual originará os hemisférios cerebrais, e ao <strong>diencéfalo</strong>. Deste são oriundas estruturas do:
-- <strong>tálamo</strong>, o grande <em>relé</em> sensitivo do Sistema Nervoso.
-- <strong>metatálamo</strong>, onde estão abrigados os corpos geniculados essenciais para as vias visual e auditiva.
-- <strong>epitálamo</strong>, onde se situa a glândula pineal.
-- <strong>hipotálamo</strong>, principal central de controle vegetativo do organismo.
-- <strong>subtálamo</strong>, fundamental para a frenagem de movimentos através da ativação da via indireta dos núcleos da base.
-Nesse âmbito, é interessante mencionar que a <strong>protuberância óptica</strong> se desenvolve a partir do diencéfalo na sexta semana de desenvolvimento embrionário, o que justifica a sintopia mantida entre certas estruturas diencefálicas e os nervos ópticos, o quiasma óptico e os tratos ópticos.</p>
+<p>De uma perspectiva neuroembriológica, tem-se que o cérebro se desenvolve a partir da extremidade cefálica do tubo neural, formada a partir do fechamento do neuróporo rostral durante a quarta semana de desenvolvimento. Esse evento permite a formação de três vesículas encefálicas primárias, as quais correspondem, de rostral a caudalmente, ao <strong>prosencéfalo</strong>, ao mesencéfalo e ao rombencéfalo. Na quinta semana de desenvolvimento, o prosencéfalo se divide em duas vesículas encefálicas secundárias, correspondentes ao <strong>telencéfalo</strong>, o qual originará os hemisférios cerebrais, e ao <strong>diencéfalo</strong>. Deste são oriundas estruturas do:</p>
+<ul>
+<li><strong>tálamo</strong>, o grande <em>relé</em> sensitivo do Sistema Nervoso.</li>
+<li><strong>metatálamo</strong>, onde estão abrigados os corpos geniculados essenciais para as vias visual e auditiva.</li>
+<li><strong>epitálamo</strong>, onde se situa a glândula pineal.</li>
+<li><strong>hipotálamo</strong>, principal central de controle vegetativo do organismo.</li>
+<li><strong>subtálamo</strong>, fundamental para a frenagem de movimentos através da ativação da via indireta dos núcleos da base.</li>
+</ul>
+<p>Nesse âmbito, é interessante mencionar que a <strong>protuberância óptica</strong> se desenvolve a partir do diencéfalo na sexta semana de desenvolvimento embrionário, o que justifica a sintopia mantida entre certas estruturas diencefálicas e os nervos ópticos, o quiasma óptico e os tratos ópticos.</p>
 <p>No processo de histogênese do prosencéfalo, distinguem-se duas populações celulares primordiais: os <strong>neuroblastos</strong> e os <strong>glioblastos</strong>. Enquanto estes darão origem às populações celulares progenitoras dos gliócitos integrantes da macróglia (ou seja, os astroblastos e os oligodendroblastos), aqueles se diferenciarão sequencialmente em neuroblastos bipolares, neurblastos unipolares e neurônios. Vale salientar queé possível que aconteçam interconexões entre os processos de neurogênese e gliogênese, dentre as quais a <strong>transformação gliogênica</strong> se configura como mecanismo mais comum de conversão de neuroblastos em glioblastos. Finalmente, é preciso ressaltar que, no prosencéfalo, ocorre a migração dos neurônios originados na zona intermediária do tubo neural para a placa cortical, explicando a organização tecidual dos hemisféricos cerebrais num córtex composto por substância cinzenta, onde podem ser visualizados corpos celulares de neurônios, e num centro sensorial composto predominantemente por prolongamentos axônicos de tais neurônios corticais.</p>
 <ul>
 <li>esquema mostrando as diferentes zonas hitogenéticas do tubo neural.</li>
 </ul>
-<p>No que tange à citoarquitetura dos circuitos neuronais complexos encontrados no córtex cerebral, vale mencionar que esta apresenta variações significativas conforme o grau de desenvolvimento filogenético da espécie estudada e a região cortical analisada. No entanto, é válido afirmar que, para todas as espécies, observa-se uma <strong>organização laminar</strong> das camadas de células do córtex cerebral, de modo que, usualmente, o córtex se encontra dividido em 6 camadas distintas. Quanto à classificação filogenética dessas regiões cerebrais, vislumbra-se uma subdivisão das áreas corticais em:
-- <strong>arquicórtex</strong>, típico da formação hipocampal.
-- <strong>paleocórtex</strong>, característico do rinencéfalo e de áreas olfativas.
-- <strong>neocórtex</strong>, presente ao longo de 95% de toda a extensão cortical, correspondendo ao território compreendido pelo isocórtex.</p>
+<p>No que tange à citoarquitetura dos circuitos neuronais complexos encontrados no córtex cerebral, vale mencionar que esta apresenta variações significativas conforme o grau de desenvolvimento filogenético da espécie estudada e a região cortical analisada. No entanto, é válido afirmar que, para todas as espécies, observa-se uma <strong>organização laminar</strong> das camadas de células do córtex cerebral, de modo que, usualmente, o córtex se encontra dividido em 6 camadas distintas. Quanto à classificação filogenética dessas regiões cerebrais, vislumbra-se uma subdivisão das áreas corticais em:</p>
 <ul>
-<li>mapa filogenético do cérebro de diferentes espécies de mamíferos e animais em geral.</li>
+<li><p><strong>arquicórtex</strong>, típico da formação hipocampal.</p></li>
+<li><p><strong>paleocórtex</strong>, característico do rinencéfalo e de áreas olfativas.</p></li>
+<li><p><strong>neocórtex</strong>, presente ao longo de 95% de toda a extensão cortical, correspondendo ao território compreendido pelo isocórtex.</p></li>
+<li><p>mapa filogenético do cérebro de diferentes espécies de mamíferos e animais em geral.</p></li>
 </ul>
-<p>Por outro lado, sob uma perspectiva citoarquitetural, o córtex cerebral pode ser classificado como:
-- <strong>isocórtex</strong>, quando estão presentes todas as camadas corticais, que são, de exterior para interior: a camada plexiforme ou molecular, a camada granular externa, a camada das células piramidais, a camada granular interna, a camada ganglionar e a camada das células multiformes.
-- <strong>alocórtex</strong>, no qual ao menos uma das seus camadas supramencionadas se faz ausente.</p>
+<p>Por outro lado, sob uma perspectiva citoarquitetural, o córtex cerebral pode ser classificado como:</p>
 <ul>
-<li>corte histológico impregnado por prata mostrando a organização das camadas do isocórtex.</li>
+<li><p><strong>isocórtex</strong>, quando estão presentes todas as camadas corticais, que são, de exterior para interior: a camada plexiforme ou molecular, a camada granular externa, a camada das células piramidais, a camada granular interna, a camada ganglionar e a camada das células multiformes.</p></li>
+<li><p><strong>alocórtex</strong>, no qual ao menos uma das seus camadas supramencionadas se faz ausente.</p></li>
+<li><p>corte histológico impregnado por prata mostrando a organização das camadas do isocórtex.</p></li>
 </ul>
-<p>O isocórtex ainda pode ser segmentado em três categorias, o que reflete o alto grau de especialização de diferentes áreas corticais para a efetuação dos mais variados tipos de tarefas e funções. Essas subcategorias são definidas com base no predomínio diferencial de uma camada cortical específica sobre as outras e compreendem as seguintes classificações:
-- <strong>isocórtex homotípico</strong>, encontrado em áreas de associação e caracterizado por possuir estratos de espessuras similares entre si.
-- <strong>isocórtex heterotípico agranular</strong>, observado em áreas motoras primárias e secundárias e organizado de tal maneira que se nota um claro predomínio das camadas compostas por células piramidais sobre os demais estratos corticais.
-- <strong>isocórtex heterotípico granular</strong>, verificado em áreas sensitivas, nas quais existe uma dominância das camadas granulares sobre as outras.
-Todavia, é preciso ressalvar que a boa visualização dessas camadas corticais e, por conseguinte, a classificação das áreas observadas de acordo com suas características citoarquiteturais e filogenéticas, só podem ser atingidas mediante o emprego de técnicas refinadas de imunofluorescência, as quais possibilitam a marcação dos tipos celulares típicos de cada estrato cortical de acordo com as proteínas expressas especificamente por cada um deles. Nesse contexto, é possível mencionar as seguintes populações celulares para cada lâmina do córtex cerebral:</p>
+<p>O isocórtex ainda pode ser segmentado em três categorias, o que reflete o alto grau de especialização de diferentes áreas corticais para a efetuação dos mais variados tipos de tarefas e funções. Essas subcategorias são definidas com base no predomínio diferencial de uma camada cortical específica sobre as outras e compreendem as seguintes classificações:</p>
+<ul>
+<li><strong>isocórtex homotípico</strong>, encontrado em áreas de associação e caracterizado por possuir estratos de espessuras similares entre si.</li>
+<li><strong>isocórtex heterotípico agranular</strong>, observado em áreas motoras primárias e secundárias e organizado de tal maneira que se nota um claro predomínio das camadas compostas por células piramidais sobre os demais estratos corticais.</li>
+<li><strong>isocórtex heterotípico granular</strong>, verificado em áreas sensitivas, nas quais existe uma dominância das camadas granulares sobre as outras.</li>
+</ul>
+<p>Todavia, é preciso ressalvar que a boa visualização dessas camadas corticais e, por conseguinte, a classificação das áreas observadas de acordo com suas características citoarquiteturais e filogenéticas, só podem ser atingidas mediante o emprego de técnicas refinadas de imunofluorescência, as quais possibilitam a marcação dos tipos celulares típicos de cada estrato cortical de acordo com as proteínas expressas especificamente por cada um deles. Nesse contexto, é possível mencionar as seguintes populações celulares para cada lâmina do córtex cerebral:</p>
 
 </div>
             </section>
@@ -261,6 +329,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
