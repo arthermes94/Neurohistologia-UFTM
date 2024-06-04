@@ -10,6 +10,7 @@ preview-book
 encéfalo
 tecido-nervoso
 caso-clínico-raiva
+cérebro
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
@@ -25,7 +26,4 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-fig:unnamed-chunk-1
-fig:unnamed-chunk-2
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
-cérebro
