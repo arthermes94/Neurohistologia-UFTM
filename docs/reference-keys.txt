@@ -19,6 +19,7 @@ nervos
 gânglios
 gânglios-sensitivos
 gânglios-autonômicos
+aplicação-clínica
 mecanorreceptores
 corpúsculos-de-vater-paccini
 botões-gustativos

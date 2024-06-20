@@ -1,3 +1,5 @@
 # Mecanorreceptores
 
 ## Corpúsculos de Vater-Paccini
+
+Os corpúsculos de Vater-Paccini correspondem a estruturas nervosas encapsuladas por **lamelas concêntricas** de tecido conjuntivo e responsáveis pela detecção de informações relacionadas à **sensibilidade vibratória** e à **pressão** exercida em **camadas profundas** da derme reticular e na hipoderme, onde tais estruturas componentes do Sistema Somatossensorial são mais numerosas. Por possuírem um complexo revestimento de fibras colágenas entremeadas por fluido intersticial, esses receptores são sensíveis até mesmo às mais sutis variações da pressão aplicada sobre a superfície da pele, encontrando-se distribuídos em abundância por regiões do tegumento recobertas por pele espessa e sujeitas a atritos e forças friccionais intensas e constantes, a exemplo da palma da mão e da superfície plantar do pé. 
