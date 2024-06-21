@@ -1,1 +1,25 @@
 # Nervos
+
+A partir de uma óptica neuroanatômico, é válido afirmar que os nervos são as principais estruturas que compõem o **Sistema Nervoso Periférico** e, por isso, funcionam como _fios_ que abrigam importantes circuitos neuronais responsáveis pela comunicação entre o Sistema Nervoso Central e as demais regiões do corpo. Isso possibilita que o Sistema Nervoso como um todo atue, ao lado do Sistema Endócrino, como uma rede de integração entre os múltiplos órgãos das várias regiões do corpo.
+
+- boxe traçando um paralelo entre a estrutura de um computador e a morfofisiologia do sistema nervoso.
+
+- boxe sobre os chamados _sistemas de integração_ e a importância deles para a manutenção da homeostase, se possível falar de como sua fisiologia pode ser modelada pela Biologia de Sistemas do ponto de vista matemático.
+
+Ao todo, possuímos **12 pares de nervos cranianos** e **31 pares de nervos espinais**. Enquanto estes se originam a partir da substância cinzenta do _H_ medular, aqueles se originam de núcleos imersos na substância branca do **tronco encefálico**, a exemplo do nervo vago (NC X), o qual se origina parcialmente do núcleo dorsal motor do nervo vago, e do nervo oculomotor (NC III), que possui seu componente autonômico oriundo do núcleo de Edinger-Westphal, ou de **projeções telencefálicas** e **diencefálicas**, como se observa para o nervo olfatório (NC I) e o nervo óptico (NC II), respectivamente.
+
+- boxe clínico sobre a avaliação dos nervos cranianos no exame físico neurológico.
+
+De forma geral, pode-se dizer que todo nervo possui um componente **aferente sensitivo** e um componente **eferente motor** e, do ponto de vista histológico, compõe-se por conjuntos de prolongamentos axônicos revestidos por membranas protetivas de tecido conjuntivo e fibras colágenas. Tais prolongamentos podem ou não estar mielinizados e isso dependerá da atividade das **células de Schwann**, os principais gliócitos do Sistema Nervoso Periférico. Essas células apresentam **núcleos sinuosos e alongados** que parecem acompanhar as trajetórias percorridas pelos prolongamentos nervosos. 
+
+- eletromicrografia das células de Schwann.
+
+Os nervos usualmente podem ser encontrados em estreita associação com elementos vasculares tais como as veias de médio calibre e as artérias musculares constituintes dos **feixes vásculo-nervosos**, e se encontram compartimentalizados em **feixes** e **fascículos** nervosos por meio das membranas conjuntivas supramencionadas. Estas correspondem ao **epineuro**, ao **perineuro** e ao  **endoneuro**.
+
+Nesse âmbito, é possível mencionar que, enquanto o **epineuro** une vários fascículos nervosos em um só nervo e é composto primordialmente por **tecido conjuntivo denso**, o **perineuro**  delimita os fascículos nervosos e corresponde a uma bainha conjuntiva constituída por uma série de fibroblastos modificados com formato achatado entremeados por fibras colágenas. Existe ainda o **endoneuro**, que corresponde a uma delicada película de **tecido conjuntivo frouxo** que reveste fibras nervosas individuais. 
+
+- esquema mostrando a estrutura dos folhetos de revestimento dos nervos ao lado de uma fotomicrografia legendada deles.
+
+Entre os fascículos nervosos, pode-se observar, no interior das bainhas conjuntivas supradescritas, **vasos sanguíneos** responsáveis pela vascularização do tecido nervoso periférico. Vale salientar que os nervos configuram-se como estruturas de notável relevância clínica no exame físico neurológico, podendo ser lesados por uma miríade de afecções com as mais variadas etiologias, como a hanseníase, a neuropatia diabética e a esclerose múltipla.
+
+- boxe microbiológico sobre a hanseníase e os mecanismos de virulência subjacentes aos danos causados em ramos nervosos sensitivos pelo _Mycobacterium leprae_.
