@@ -10,6 +10,10 @@ Histologicamente, essas **estruturas neuroepiteliais** formam pequenos aglomerad
 
 - Por fim, as **células sustentaculares** são responsáveis pela sustentação das populações celulares supramencionadas, atuando como um componente estromal dos botões gustativos.
 
+```{r echo = FALSE, fig.cap="Botões gustativos presentes na superfície lateral das papilas circunvaladas. Observe a região do poro gustativo, as células gustativas, as células sustentaculares e a região de sinapse com neurônios sensitivos.", fig.align='default'}
+knitr::include_graphics("images/neuro-gust.jpeg", error = FALSE)
+```
+
 Nesse âmbito, também é válido mencionar que as células gustativas receptoras se encontram divididas em **3 subtipos** principais, cada qual dedicado à percepção de diferentes modalidades gustativas. Assim, tem-se que, ao passo que as células gustativas do **tipo I** se encontram especializadas na captação de informações relativas ao sabor salgado, as células gustativas do **tipo II** estão voltadas à detecção do doce, do _umami_ (sabor característico de alimentos ricos em glutamato, tais como o peixe cru, os cogumelos e alguns tipos de queijo) e do amargo por meio de receptores metabotrópicos denominados **transducinas**. Finalmente, tem-se que as células gustatórias do **tipo III** possuem propriedades características de células excitáveis, sendo capazes de conduzir potenciais de ação e desempenharem respostas elétricas vinculadas aos sabores azedo e salgado por intermédio de despolarizações proporcionadas pela entrada de cátions (Na^+^ e Ca^2+^) através de canais iônicos voltagem-dependentes situados nos polos apicais de tais células.
 
 <!-- - boxe de notícia sobre a descoberta do sabor umami e a culinária japonesa. -->

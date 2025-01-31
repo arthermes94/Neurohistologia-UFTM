@@ -10,6 +10,10 @@ As fibras sensitivas constituintes dos nervos espinais apresentam seus somas sit
 
 Como característica histológica peculiar dos gânglios sensitivos, é possível mencionar a presença de gliócitos especializados, denominados **células satélites**, "contornando" e sustentando os corpos celulares e os neuritos dos neurônios sensitivos. Ao emitirem um prolongamento centrípeto em direção à medula espinal e um prolongamento centrífugo em direção à periferia do organismo, os gânglios sensitivos proporcionam a integração somatossensorial entre diferentes regiões do corpo, o que é de especial importância para a defesa do organismo e para a mediação de **arcos reflexos**.
 
+```{r echo = FALSE, fig.cap="Pericário de um neurônio pseudounipolar sensitivo localizado no gânglio da raiz dorsal de um nervo espinal. Observe as células satélites fornecendo sustentação para esse neurônio.", fig.align='default'}
+knitr::include_graphics("images/neuro-celssatelite.jpeg", error = FALSE)
+```
+
 <!-- - boxe fisiológico sobre a Fisiologia dos arcos reflexos e as manobras de testagem de reflexos mais relevantes no exame físico neurológico. -->
 
 ## Gânglios Autonômicos
@@ -18,7 +22,11 @@ Essas estruturas integram a **divisão visceral** do Sistema Nervoso e são fund
 
 <!-- - Boxe de biologia celular versando sobre a importância do SNE na patogenia de doenças psíquicas e sobre as principais funções dele. -->
 
-Ainda se pode vislumbrar a presneça de pequenos gânglios autonômicos em meio ao tecido conjuntivo presente nas trabéculas da **glãndula submandibular**, onde medeia suas atividades secretórias conectando-se com fibras provenientes do nervo facial.
+Ainda se pode vislumbrar a presença de pequenos gânglios autonômicos em meio ao tecido conjuntivo presente nas trabéculas da **glãndula submandibular**, onde medeia suas atividades secretórias conectando-se com fibras provenientes do nervo facial.
+
+```{r echo = FALSE, fig.cap="Um pequeno gânglio autonômico situado em meio ao tecido conjuntivo das trabéculas da glândula submandibular.", fig.align='default'}
+knitr::include_graphics("images/neuro-ganglio.jpeg", error = FALSE)
+```
 
 ## Aplicação Clínica
 

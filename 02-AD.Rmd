@@ -27,3 +27,15 @@ Outro aspecto anatômico no qual se pode notar claras diferenças entre as organ
 Microscopicamente, é possível subdividir a substância cinzenta da medula espinal, que se dispõe num formato parecido com uma letra _H_ ou com uma borboleta (ganhando, por isso, a denominação de _H_ medular), em uma série de **lâminas** ou **núcleos** conhecidos como **lâminas de Rexed**. Cada uma dessas lâminas desempenha papéis específicos na modulação das atividades dos tratos espinais que trafegam pela substância branca e nas funções motoras e sensitivas desempenhadas pelo neuroeixo em sua interface de integração com o restante do organismo por meio do Sistema Nervoso Periférico. É interessante ressaltar que a proporção entre as áreas ocupadas pela substância cinzenta e pela substância branca aumenta craniocaudalmente, de forma que a medula espinal sacral possui um predomínio de substância cinzenta e a medula espinal cervical, de substância branca.
 
 <!-- - Boxe embriológico e fisiológico sobre a biologia do desenvolvimento das lâminas de Rexed e as funções de cada uma delas. -->
+
+```{r echo = FALSE, fig.cap="Secção transversal de medula espinal. Verifique a organização típica das substâncias branca e cinzenta medulares.", fig.align='default'}
+knitr::include_graphics("images/neuro-medula.jpeg", error = FALSE)
+```
+
+```{r echo = FALSE, fig.cap="Corpos celulares de motoneurônios no corno ventral da substância cinzenta medular.", fig.align='default'}
+knitr::include_graphics("images/neuro-motoneuronios.jpeg", error = FALSE)
+```
+
+```{r echo = FALSE, fig.cap="Canal ependimário central da medula espinal. Atente-se para o aspecto dos ependimócitos.", fig.align='default'}
+knitr::include_graphics("images/neuro-ependima.jpeg", error = FALSE)
+```

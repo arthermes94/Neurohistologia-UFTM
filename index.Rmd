@@ -35,3 +35,4 @@ Seguem algumas sugestões de leitura para complemantar seus estudos:
 - Livro-texto de Biologia Celular: [@kierszenbaum2008histologia]
 - Livro-texto de Embriologia: [@schoenwolf2014larsen]
 - Livro-texto de Neuroanatomia: [@machado2013neuroanatomia]
+- Livro-texto de Psicofarmacologia: [@stahl2021stahl]

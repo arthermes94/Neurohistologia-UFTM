@@ -16,9 +16,21 @@ De forma geral, pode-se dizer que todo nervo possui um componente **aferente sen
 
 Os nervos usualmente podem ser encontrados em estreita associação com elementos vasculares tais como as veias de médio calibre e as artérias musculares constituintes dos **feixes vásculo-nervosos**, e se encontram compartimentalizados em **feixes** e **fascículos** nervosos por meio das membranas conjuntivas supramencionadas. Estas correspondem ao **epineuro**, ao **perineuro** e ao  **endoneuro**.
 
+```{r echo = FALSE, fig.cap="Imagem de um feixe vásculo-nervoso.", fig.align='default'}
+knitr::include_graphics("images/neuro-feixeneurovasc.jpeg", error = FALSE)
+```
+
+```{r echo = FALSE, fig.cap="Componente neural de um feixe neurovascular.", fig.align='default'}
+knitr::include_graphics("images/neuro-feixevascner.jpeg", error = FALSE)
+```
+
 Nesse âmbito, é possível mencionar que, enquanto o **epineuro** une vários fascículos nervosos em um só nervo e é composto primordialmente por **tecido conjuntivo denso**, o **perineuro**  delimita os fascículos nervosos e corresponde a uma bainha conjuntiva constituída por uma série de fibroblastos modificados com formato achatado entremeados por fibras colágenas. Existe ainda o **endoneuro**, que corresponde a uma delicada película de **tecido conjuntivo frouxo** que reveste fibras nervosas individuais. 
 
 <!-- - esquema mostrando a estrutura dos folhetos de revestimento dos nervos ao lado de uma fotomicrografia legendada deles. -->
+
+```{r echo = FALSE, fig.cap="Aspecto de um nervo periférico à microscopia de luz.", fig.align='default'}
+knitr::include_graphics("images/neuro-nervo.jpeg", error = FALSE)
+```
 
 Entre os fascículos nervosos, pode-se observar, no interior das bainhas conjuntivas supradescritas, **vasos sanguíneos** responsáveis pela vascularização do tecido nervoso periférico. Vale salientar que os nervos configuram-se como estruturas de notável relevância clínica no exame físico neurológico, podendo ser lesados por uma miríade de afecções com as mais variadas etiologias, como a hanseníase, a neuropatia diabética e a esclerose múltipla.
 

@@ -54,6 +54,10 @@ Originam-se a princípio como neurônios bipolares, porém, o corpo celular se d
 
 Apresentam uma morfologia celular típica do que se costuma vir à mente ao se pensar em nerurônios, com o pericário recebendo vários prolongamentos dendríticos e emitindo um único e longo prolongamento axonal. Vale mencionar que, assim como os demais tipos de neurônios previamente abordados, nos neurônios multipolares também é possível observar a presença de neurofilamentos ao longo do axônio, filamentos intermediários do tipo IV que servem como biomarcadores de diversas doenças neurodegenerativas com prognóstico grave, a exemplo da neuropatia axonal gigante, da esclerose lateral amiotrófica e da Doença de Alzheimer. Essa classe de neurônios é a mais numerosa do corpo, sendo possível encontrar uma grande pluralidade morfológica dentre os neurônios que a compõem. Tal pluralidade fica muito evidente ao compararmos neurônios multipolares de diferentes regiões do Sistema Nervoso. Enquanto as células de Betz situadas na camada piramidal interna do córtex motor primário são caracterizadas por seus formatos triangulares, as células de Purkinje do córtex cerebelar são marcadas por possuírem profusas ramificações dendríticas. Por outro lado, os neurônios parvocelulares dos núcleos hipotalâmicos responsáveis pela secreção de hormônios hipofisiotróficos são facilmente noticiáveis por conta das dimensões reduzidas do corpo celular. 
 
+```{r echo = FALSE, fig.cap="Prolongamentos neuronais observados em corte histológico corado pela prata.", fig.align='default'}
+knitr::include_graphics("images/neuro-prata.jpeg", error = FALSE)
+```
+
 <!-- - fotomicrografias das categorias de neurônios supramencionadas -->
 
 É importante destacar que, levando-se em consideração a extensão dos axônios dos neurônios multipolares, eles podem ainda ser separados em dois subtipos:
