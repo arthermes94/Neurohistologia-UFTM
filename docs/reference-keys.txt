@@ -9,7 +9,6 @@ render-book
 preview-book
 encéfalo
 tecido-nervoso
-caso-clínico-raiva
 cérebro
 cerebelo
 plexo-coroide
