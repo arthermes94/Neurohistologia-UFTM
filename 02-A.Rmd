@@ -2,7 +2,7 @@
 
 Anatomicamente, o cérebro pode ser considerado, sem sombra de dúvidas, a estrutura mais importante do Sistema Nervoso Central, podendo ser dividido em 47 áreas de Brodmann relacionadas aos mais diversos aspectos da experiência humana, tais como o processamento auditivo central, a empatia, a sensibilidade térmica e dolorosa, a linguagem, a cognição lógico-matemática, a personalidade e a memória. Além disso, temos também inúmeras estruturas subcorticais e diencefálicas vinculadas a mecanismos de analgesia, ao aprendizado motor e ao controle de funções vegetativas.
 
-- mapa das áreas de Brodmann junto com legenda explicando as funções das principais delas
+<!-- - mapa das áreas de Brodmann junto com legenda explicando as funções das principais delas -->
 
 De uma perspectiva neuroembriológica, tem-se que o cérebro se desenvolve a partir da extremidade cefálica do tubo neural, formada a partir do fechamento do neuróporo rostral durante a quarta semana de desenvolvimento. Esse evento permite a formação de três vesículas encefálicas primárias, as quais correspondem, de rostral a caudalmente, ao **prosencéfalo**, ao mesencéfalo e ao rombencéfalo. Na  quinta semana de desenvolvimento, o prosencéfalo se divide em duas vesículas encefálicas secundárias, correspondentes ao **telencéfalo**, o qual originará os hemisférios cerebrais, e ao **diencéfalo**. Deste são oriundas estruturas do:
 
@@ -16,7 +16,7 @@ Nesse âmbito, é interessante mencionar que a **protuberância óptica** se des
 
 No processo de histogênese do prosencéfalo, distinguem-se duas populações celulares primordiais: os **neuroblastos** e os **glioblastos**. Enquanto estes darão origem às populações celulares progenitoras dos gliócitos integrantes da macróglia (ou seja, os astroblastos e os oligodendroblastos), aqueles se diferenciarão sequencialmente em neuroblastos bipolares, neurblastos unipolares e neurônios. Vale salientar queé possível que aconteçam interconexões entre os processos de neurogênese e gliogênese, dentre as quais a **transformação gliogênica** se configura como mecanismo mais comum de conversão de neuroblastos em glioblastos. Finalmente, é preciso ressaltar que, no prosencéfalo, ocorre a migração dos neurônios originados na zona intermediária do tubo neural para a placa cortical, explicando a organização tecidual dos hemisféricos cerebrais num córtex composto por substância cinzenta, onde podem ser visualizados corpos celulares de neurônios, e num centro sensorial composto predominantemente por prolongamentos axônicos de tais neurônios corticais.
 
-- esquema mostrando as diferentes zonas hitogenéticas do tubo neural.
+<!-- - esquema mostrando as diferentes zonas hitogenéticas do tubo neural. -->
 
 No que tange à citoarquitetura dos circuitos neuronais complexos encontrados no córtex cerebral, vale mencionar que esta apresenta variações significativas conforme o grau de desenvolvimento filogenético da espécie estudada e a região cortical analisada. No entanto, é válido afirmar que, para todas as espécies, observa-se uma **organização laminar** das camadas de células do córtex cerebral, de modo que, usualmente, o córtex se encontra dividido em 6 camadas distintas. Quanto à classificação filogenética dessas regiões cerebrais, vislumbra-se uma subdivisão das áreas corticais em:
 
@@ -24,14 +24,14 @@ No que tange à citoarquitetura dos circuitos neuronais complexos encontrados no
 -   **paleocórtex**, característico do rinencéfalo e de áreas olfativas.
 -   **neocórtex**, presente ao longo de 95% de toda a extensão cortical, correspondendo ao território compreendido pelo isocórtex.
 
-- mapa filogenético do cérebro de diferentes espécies de mamíferos e animais em geral.
+<!-- - mapa filogenético do cérebro de diferentes espécies de mamíferos e animais em geral. -->
 
 Por outro lado, sob uma perspectiva citoarquitetural, o córtex cerebral pode ser classificado como:
 
 -   **isocórtex**, quando estão presentes todas as camadas corticais, que são, de exterior para interior: a camada plexiforme ou molecular, a camada granular externa, a camada das células piramidais, a camada granular interna, a camada ganglionar e a camada das células multiformes.
 -   **alocórtex**, no qual ao menos uma das seus camadas supramencionadas se faz ausente.
 
-- corte histológico impregnado por prata mostrando a organização das camadas do isocórtex.
+<!-- - corte histológico impregnado por prata mostrando a organização das camadas do isocórtex. -->
 
 O isocórtex ainda pode ser segmentado em três categorias, o que reflete o alto grau de especialização de diferentes áreas corticais para a efetuação dos mais variados tipos de tarefas e funções. Essas subcategorias são definidas com base no predomínio diferencial de uma camada cortical específica sobre as outras e compreendem as seguintes classificações:
 
@@ -43,7 +43,7 @@ Todavia, é preciso ressalvar que a boa visualização dessas camadas corticais 
 
 -   **Camada molecular**: nesse estrato cortical, há o predomínio de **prolongamentos axonais e dendríticos** de neurônios subjacentes, não sendo possível encontrar uma grande quantidade de células. Entretanto, ocasionalmente se pode deparar com gliócitos e **células horizontais de Cajal** (também denominadas células de Cajal-Retzius), neurônios glutamatérgicos e $GABA$érgicos fundamentais na mediação do processo de corticogênese via secreção de reelina, uma proteína sinalizadora morfogenética.
 
-- boxe com um esquema de sinalização celular mostrando a função da reelina e a importância dela para a embriologia.
+<!-- - boxe com um esquema de sinalização celular mostrando a função da reelina e a importância dela para a embriologia. -->
 
 -   **Camada granular externa**: essa camada se encontra composta por densas aglomerações de **células piramidais** e **células granulares**. Enquanto estas correspondem a neurônios multipolares do tipo II de Golgi e também são conhecidas como **células estreladas**, aquelas correspondem a neurônios multipolares do tipo I de Golgi e são os principais tipos de neurônios disparados na ativação do trato corticoespinal e na cognição.
 
@@ -51,7 +51,7 @@ Todavia, é preciso ressalvar que a boa visualização dessas camadas corticais 
 
 -   **Camada granular interna**: esse estrato do córtex cerebral é constituído primariamente por **células estreladas** e é tido como a primeira camada cortical a receber aferências talâmicas, sendo, portanto, responsável por retransmiti-las às demais regiões do córtex. Em cortes do giro estriado (área 17 de Brodmann, também conhecida como área visual primária), é possível observar de modo nítido neurônios constituintes da via visual estabelecendo conexões com as células granulares da camada granular interna por meio das **fibras geniculocalcarinas**, as quais formam a Estria de Gennari, faixa esbranquiçada facilmente reconhecível à examinação macroscópica.
 
-- imagem de macroscopia mostrando a Estria de Gennari.
+<!-- - imagem de macroscopia mostrando a Estria de Gennari. -->
 
 -   **Camada granular (ou piramidal interna)**: nessa região do plano estratimérico do córtex cerebral, pode-se visualizar grandes quantidades de **células piramidais** com somas de dimensões amplas e quantias consideráveis de células estreladas e de Martinotti. No giro pré-central, correspondente à área motora primária, essa camada abriga as **células de Betz**, os maiores neurônios de todo o Sistema Nervoso e as principais ativadoras de motoneurônios \u03B1 inferiores, estabelecendo sinapses excitatórias glutamatérgicas com estes e projetando-se por meio dos tratos corticoespinais lateral e anterior.
 
@@ -63,10 +63,10 @@ A dura-máter se encontra aderida ao periósteo dos ossos da calota craniana no 
 
 Internamente à dura-máter, pode-se encontrar a aracnoide-máter, a qual é dividida numa parte mais externa que fica aderida à dura-máter e contribui para a formação de uma camada meníngea protetora espessa (a **paquimeninge**) e numa parte trabecular que se aprofunda em direção ao **espaço subaracnoideo**, principal reservatório de líquor cefalorraquidiano no Sistema Nervoso Central. De uma perspectiva histológica, pode-se dizer que a aracnoide-máter é composta fundamentalmente de tecido conjuntivo denso e **células meningoteliais** revestindo o espaço subaracnoideo.
 
-- boxe explicando as funções das membranas serosas e do mesotélio e falando das células meningoteliais como possível quarto mesotélio do corpo.
+<!-- - boxe explicando as funções das membranas serosas e do mesotélio e falando das células meningoteliais como possível quarto mesotélio do corpo. -->
 
 Ainda mais internamente à aracnoide-máter, pode-se visualizar a pia-máter, o folheto meníngeo **mais delicado e vascularizado**, que se encontra intimamente aderida ao tecido nervoso e revestida por células meningoteliais de origem embrionária mesenquimatosa. Pelo espaço subaracnoideo transitam artérias dedicadas à irrigação de estruturas cerebrais e esses vasos adentram o parênquima encefálico por meio de canais revestidos por pia-máter e preenchidos por um delgado espaço fisicamente contíguo ao espaço subaracnoideo, denominado espaço perivascular ou **espaço de Virchow-Robbin**.
 
-- diagrama (imagem de livro de Histologia ou Anatomia) mostrando a estrutura do espaço de Virchow-Robbin
+<!-- - diagrama (imagem de livro de Histologia ou Anatomia) mostrando a estrutura do espaço de Virchow-Robbin -->
 
-## Caso Clínico: Meningoencefalite criptocócica
+<!-- ## Caso Clínico: Meningoencefalite criptocócica -->

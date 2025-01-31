@@ -6,12 +6,12 @@ Os corpúsculos de Vater-Paccini correspondem a estruturas nervosas encapsuladas
 
 Convém, todavia, salientar que essas terminações nervosas mecanorreceptoras não são exclusivas do Sistema Tegumentar, podendo também ser visualizadas em vísceras secretoras como o **pâncreas**, em **articulações** e no **periósteo** que reveste os componentes ósseos do esqueleto. Não se sabe ao certo os papéis fisiológicos efetuados pelos corpúsculos de Vater-Paccini nestes locais, especialmente no que concerne à população desses mecanorreceptores encontrada nas trabéculas conjuntivas do pâncreas. Entretanto, é teorizado que eles possam estar envolvidos no controle central da secreção realizada por essa importante glândula anfícrina retroperitoneal por meio da detecção de variações na pressão hidrostática no interior dos ductos secretores ao decorrer da ejeção do suco pancreático para a porção descendente do duodeno.
 
-- boxe fisiológico sobre a a viscerocepão e o papel dos mecanorreceptores nisso tudo.
+<!-- - boxe fisiológico sobre a a viscerocepão e o papel dos mecanorreceptores nisso tudo. -->
 
 De um ponto de vista neurofisiológico, é possível afirmar que as informações captadas pelos corpúsculos de Paccini chegam ao **córtex somatossensorial primário**, correspondente ao **giro pós-central** (áreas 1, 2 e 3 de Brodmann), por meio da via **coluna dorsal-lemnisco medial**. Nesse âmbito, observa-se que o primeiro neurônio da via, cuja terminação nervosa periférica forma o corpúsculo de Paccini, possui seu pericário situado nos **gânglios sensitivos das raízes dorsais** dos nervos espinais e, ao adentrar na medula, envia um longo prolongamento axônico para o **tálamo** por meio do **funículo posterior** da substância branca medular. Particularmente, verifica-se que há um expressivo direcionamento das fibras nervosas para núcleos talâmicos responsáveis pela retransmissão das informações referentes à sensibilidade vibratória, à propriocepção consciente e ao tato epicrítico, merecendo destaque os núcleos **ventral póstero-lateral** e **ventral póstero-medial**.
 
-- esquema mostrando a via da coluna dorsal-lemnisco medial
+<!-- - esquema mostrando a via da coluna dorsal-lemnisco medial -->
 
 Ao chegar nesses centros talâmicos, o impulso nervoso é retransmitido para a **camada IV (granular interna)** do córtex somatossensorial primário, onde obedece um padrão de distribuição **somatotópico**
 
-- boxe embriológico e anatômico falando sobre os mapas corticais para somatotopia e tonotopia e a origem desses mapas do ponto de vista da biologia do desenvolvimento.
+<!-- - boxe embriológico e anatômico falando sobre os mapas corticais para somatotopia e tonotopia e a origem desses mapas do ponto de vista da biologia do desenvolvimento. -->

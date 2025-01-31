@@ -4,7 +4,7 @@ De uma perspectiva neuroanatômica, o cerebelo (cuja etimologia latina significa
 
 Assim como o cérebro, o cerebelo tabmém apresenta uma camada cortical compreendida por substância cinzenta e uma camada medular composta primordialmente por substância branca, as quais correspondem, respectivamente, ao **córtex cerebelar** e ao **corpo medular do cerebelo** (denominado também _árvore da vida_ por apresentar uma geometria similar àquela observada nos galhos de uma árvore frondosa). Podem ser encontradas esturturas compostas por substância cinzenta mergulhadas no corpo medular, coletivamente referidas como **núcleos profundos do cerebelo**. Estes abrangem os núcleos **denteado**, **interpósito** (formado pela união dos núcleos **globoso** e **emboliforme**) e **fastigial**. Do ponto de vista da divisão longitudinal do cerebelo, cada núcleo se encontra relacionado a funções e vias específicas da motricidade, o que é de grande relevância clínica para a avaliação de quadros de lesões cerebelares no exame físico.
 
-- boxe mostrando técnicas de avaliação das vias cerebelares no exame físico neurológico
+<!-- - boxe mostrando técnicas de avaliação das vias cerebelares no exame físico neurológico -->
 
 Nesse âmbito, convém salientar que a **zona verminiana**, composta por uma estrutura altamente segmentada situada ao longo do plano sagital mediano e detentora de um formato parecido com o de uma minhoca (o que justifica seu nome). Essa região se relaciona primariamente com o **núcleo do fastígio**, estabelecendo conexões com o sistema vestibular por meio da via fastígio-vestibular, essencial para o ajuste de movimentos mediante alterações nas velocidades lineares e angulares do corpo.
 
@@ -24,7 +24,7 @@ Já a camada de **células de Purkinje** é composta primariamente por neurônio
 
 Por fim, cabe salientar que a **camada granulosa** do córtex cerebelar é composta primordialmente por **células granulosas**, neurônios multipolares do tipo Golgi I que emitem extensos prolongamentos axônicos retilíneos e amielínicos para a camada molecular do córtex cerebelar, e **células de Golgi**, as quais correspondem a interneurônios inibitórios $GABA$érgicos ativados pelas fibras musgosas e responsáveis por suprimirem as atividades das células granulosas. Teoriza-se que o papel das células de Golgi no contexto das intrincada circuitaria neural cerebelar esteja voltado à **plasticidade neuronal** no córtex cerebelar e ao rearranjo espaço-temporal dos níveis de atividade das células granulosas e de suas conexões sinápticas.
 
-- boxe de biologia celular explicando os mecanismos moleculares subjacentes à plasticidade neuronal.
+<!-- - boxe de biologia celular explicando os mecanismos moleculares subjacentes à plasticidade neuronal. -->
 
-- boxe fisiológico explicando os papéis desempenhados pelas fibras musgosas e a neuroanatomia delas.
+<!-- - boxe fisiológico explicando os papéis desempenhados pelas fibras musgosas e a neuroanatomia delas. -->
 

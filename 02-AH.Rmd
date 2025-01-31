@@ -6,15 +6,15 @@ Histologicamente, essas **estruturas neuroepiteliais** formam pequenos aglomerad
 
 - Já as **células gustativas** são especializadas na detecção de sabores por meio do reconhecimento de moléculas solúveis dispersas na saliva e se degradam muito rapidamente quando comparadas a outras populações celulares, haja vista suas meias-vidas estimadas de 5 a 10 dias. Cabe ressaltar que essas células são providas de abundantes microvilos apicais que usualmente dispõem de grandes quantidades de receptores metebotrópicos dedicados à percepção dos sabores liberados pela comida e à transdução de sinais elétricos por estes proporcionados. 
 
-- boxe de biologia molecular sobre proteínas da família TRPV e de seus papeis na detecção de sabores
+<!-- - boxe de biologia molecular sobre proteínas da família TRPV e de seus papeis na detecção de sabores -->
 
 - Por fim, as **células sustentaculares** são responsáveis pela sustentação das populações celulares supramencionadas, atuando como um componente estromal dos botões gustativos.
 
 Nesse âmbito, também é válido mencionar que as células gustativas receptoras se encontram divididas em **3 subtipos** principais, cada qual dedicado à percepção de diferentes modalidades gustativas. Assim, tem-se que, ao passo que as células gustativas do **tipo I** se encontram especializadas na captação de informações relativas ao sabor salgado, as células gustativas do **tipo II** estão voltadas à detecção do doce, do _umami_ (sabor característico de alimentos ricos em glutamato, tais como o peixe cru, os cogumelos e alguns tipos de queijo) e do amargo por meio de receptores metabotrópicos denominados **transducinas**. Finalmente, tem-se que as células gustatórias do **tipo III** possuem propriedades características de células excitáveis, sendo capazes de conduzir potenciais de ação e desempenharem respostas elétricas vinculadas aos sabores azedo e salgado por intermédio de despolarizações proporcionadas pela entrada de cátions (Na^+^ e Ca^2+^) através de canais iônicos voltagem-dependentes situados nos polos apicais de tais células.
 
-- boxe de notícia sobre a descoberta do sabor umami e a culinária japonesa.
+<!-- - boxe de notícia sobre a descoberta do sabor umami e a culinária japonesa. -->
 
 Quando as moléculas responsáveis pela percepção do sabor se dissolvem na saliva e adentram nos **poros gustativos**, pequenas aberturas por meio das quais o domínio de membrana apical das células gustativas se abre na cavidade oral, ocorre, portanto, o disparo de cascatas de sinalização intracelulares responsáveis por promoverem a **exocitose de ATP** para a região de contato entre o botão gustativo e ramos nervosos especiais dos nervos facial (NC VII), vago (NC X) e glossofaríngeo (NC IX). Dessa forma, mediante a ativação dessas estruturas nervosas, a informação gustativa é carreada até o **córtex gustativo primário**, localizado nos giros da ínsula posteriores, por meio de uma trajetória nervosa que passa pelo **núcleo do trato solitário (NTS)**.
 
-- boxe de notícias falando sobre o sabor umami.
+<!-- - boxe de notícias falando sobre o sabor umami. -->
 
