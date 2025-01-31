@@ -15,46 +15,23 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Sobre o projeto
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Seja bem-vindo ao _site_ Neurohistologia UFTM! Foi no intuito de congregar informações relevantes sobre as neurociências e facilitar o estudo das maravilhas do Sistema Nervoso dentre discentes de cursos da saúde e de biológicas que nasceu este projeto. Esperamos que ele possa ser útil em sua jornada de aprendizagem acerca dessa parte tão misteriosa e intrigante do organismo humano! 
 
-## Usage 
+## Fotomicrografias
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+Em cada seção desta página, é possível encontrar imagens de cortes histológicos observados à microscopia óptica que ilustram e embelezam os textos. Convém salientar que o material fotografado para tal propósito é o mesmo utilizado durante as aulas teórico-práticas das disciplinas de Bases Celulares e Morfofisiológicas do curso de Medicina da UFTM.
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+## Interdisciplinaridade
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+Apesar do âmago do _site_ residir na Histologia e na compreensão das organizações ultraestruturais e citoarquiteturais dos tecidos que compõem o Sistema Nervoso, entendemos que o conhecimento se desenvolve em sua completude na medida em que se pratica o raciocínio e a associação de fatos de diferentes áreas. Desse modo, os textos dessa página também incluem múltiplas curiosidades sobre a Biologia Celular, a Fisiologia, a Embriologia, a Farmacologia e a Bioquímica subjacentes aos mecanismos de funcionamento e desenvolvimento desse sistema.
 
-## Render book
+## Sugestões de leitura
 
-You can render the HTML version of this example book without changing anything:
+Seguem algumas sugestões de leitura para complemantar seus estudos:
 
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+- Livro-texto de Histologia: [@junqueira2018histologia]
+- Livro-texto de Biologia Celular: [@kierszenbaum2008histologia]
+- Livro-texto de Embriologia: [@schoenwolf2014larsen]
+- Livro-texto de Neuroanatomia: [@machado2013neuroanatomia]
